@@ -1,11 +1,81 @@
-# 💫 About Me:
-Full-stack dev by day, music enthusiast by night. I love building web apps that actually feel good to use, focusing on clean code and even cleaner user experiences.
-If I'm not debugging, I’m probably working on a track or looking for a new project to collab on. Let’s build (or record) something cool together!
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=c8d8f0&height=160&section=header&text=Avinash%20N&fontSize=52&fontColor=3a4a7a&fontAlignY=55&desc=Full%20Stack%20Developer%20%C2%B7%20Music%20Enthusiast%20%C2%B7%20Bengaluru%2C%20India&descSize=14&descAlignY=78&descColor=6274a8&animation=fadeIn" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-s-naidu-0950351bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashnaidu1227@gmail.com) 
+<p align="center">
+  I build full-stack web applications with an emphasis on clean architecture and thoughtful user experience.<br/>
+  Currently exploring agentic AI systems and real-time data pipelines.<br/>
+  When I'm not at the keyboard, I'm probably working on a track.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://avin27.github.io/portfolio-v1">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/avinash-s-naidu-0950351bb">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:avinashnaidu1227@gmail.com">Email</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-dbeafe?style=flat&logo=openjdk&logoColor=1e40af)
+![JavaScript](https://img.shields.io/badge/JavaScript-fef9c3?style=flat&logo=javascript&logoColor=854d0e)
+![TypeScript](https://img.shields.io/badge/TypeScript-e0e7ff?style=flat&logo=typescript&logoColor=3730a3)
+![Python](https://img.shields.io/badge/Python-d1fae5?style=flat&logo=python&logoColor=166534)
+
+## Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-f1f5f9?style=flat&logo=next.js&logoColor=334155)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ccfbf1?style=flat&logo=tailwind-css&logoColor=115e59)
+![Vite](https://img.shields.io/badge/Vite-ede9fe?style=flat&logo=vite&logoColor=5b21b6)
+![Framer](https://img.shields.io/badge/Framer-e0e7ff?style=flat&logo=framer&logoColor=3730a3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-f1f5f9?style=flat&logo=bootstrap&logoColor=334155)
+
+## Backend & Infrastructure
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-d1fae5?style=flat&logo=spring&logoColor=166534)
+![FastAPI](https://img.shields.io/badge/FastAPI-ccfbf1?style=flat&logo=fastapi&logoColor=115e59)
+![Express.js](https://img.shields.io/badge/Express.js-f1f5f9?style=flat&logo=express&logoColor=334155)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbeafe?style=flat&logo=postgresql&logoColor=1e40af)
+![MongoDB](https://img.shields.io/badge/MongoDB-d1fae5?style=flat&logo=mongodb&logoColor=166534)
+![Redis](https://img.shields.io/badge/Redis-fee2e2?style=flat&logo=redis&logoColor=991b1b)
+![Firebase](https://img.shields.io/badge/Firebase-fef3c7?style=flat&logo=firebase&logoColor=92400e)
+![Supabase](https://img.shields.io/badge/Supabase-ccfbf1?style=flat&logo=supabase&logoColor=115e59)
+![Docker](https://img.shields.io/badge/Docker-dbeafe?style=flat&logo=docker&logoColor=1e40af)
+![GCP](https://img.shields.io/badge/GCP-fef9c3?style=flat&logo=googlecloud&logoColor=854d0e)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-f1f5f9?style=flat&logo=apachekafka&logoColor=334155)
+![Apache Camel](https://img.shields.io/badge/Apache%20Camel-f1f5f9?style=flat&logo=apache&logoColor=334155)
+![Jenkins](https://img.shields.io/badge/Jenkins-f1f5f9?style=flat&logo=jenkins&logoColor=334155)
+![Hibernate](https://img.shields.io/badge/Hibernate-e0e7ff?style=flat&logo=hibernate&logoColor=3730a3)
+
+## Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-d1fae5?style=flat&logo=chainlink&logoColor=166534)
+![LangGraph](https://img.shields.io/badge/LangGraph-ccfbf1?style=flat&logo=chainlink&logoColor=115e59)
+![OpenAI](https://img.shields.io/badge/OpenAI-f1f5f9?style=flat&logo=chatgpt&logoColor=334155)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-fef9c3?style=flat&logo=huggingface&logoColor=854d0e)
+![Gemini](https://img.shields.io/badge/Gemini-f1f5f9?style=flat&logo=google&logoColor=334155)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-ede9fe?style=flat&logo=databricks&logoColor=5b21b6)
+![Claude](https://img.shields.io/badge/Claude-ede9fe?style=flat&logo=claude&logoColor=5b21b6)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" />
+  &nbsp;
+  <img src="./profile/languages.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AviN27/AviN27/output/github-contribution-grid-snake.svg" alt="Contribution activity" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=d1f5e0&height=60&section=footer&text=Lets%20Collaborate%21&fontSize=30&fontColor=3a4a7a&fontAlignY=55" />
+</p>
